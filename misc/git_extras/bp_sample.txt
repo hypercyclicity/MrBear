@@ -1,0 +1,12 @@
+
+
+# Some commands that make git a bit simpler.  Expand on this if you have any
+# other ideas
+#***** GIT *****
+alias gpush='git push origin master'
+alias gpull='git pull origin master'
+alias gadd='git add *'
+alias grm='git rm -r'
+#This one reuires a script written as well, don'e use this unless you know what
+#you are doing
+#alias gcommit='python $GIT_SCRIPTS/commit.py '
