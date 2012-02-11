@@ -11,9 +11,6 @@ import os
 import sys
 import subprocess
 
-#script_util imports
-sys.path.insert(0, os.getenv("SCRIPT_UTIL"))
-import arguements
 
 
 args = sys.argv
